@@ -11,6 +11,7 @@
 | [Вернуться на предыдущую ветку: `git switch -`](tips/git-switch-dash.md) | @GlebKievsky |
 | [История веток в виде графа: `git log --oneline --graph`](tips/git-log-graph.md) | @GlebKievsky |
 | [Отложить незаконченные правки: `git stash`](tips/git-stash.md) | @annafirst203 |
+| [Проверить, что попадёт в коммит: `git diff --staged`](tips/git-diff-staged.md) | @Jah-yee |
 
 ## Лицензия
 
